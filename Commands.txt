@@ -1,0 +1,11 @@
+git config --global user.name 'omair khan'
+
+git config --global user.email 'omairkhan.k@gmail.com'
+
+git add index.html  //add file to staging area
+
+git status
+
+git rm --cached index.html  //to remove file from staging area
+
+git add *.html //add all html files to staging area
