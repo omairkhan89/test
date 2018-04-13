@@ -1,0 +1,2 @@
+This folder will not be included in the repository. This will be referenced in .gitignore so that the files in this folder
+are not included.
